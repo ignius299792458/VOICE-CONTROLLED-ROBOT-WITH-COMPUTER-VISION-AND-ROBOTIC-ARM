@@ -1,6 +1,6 @@
 # VOICE CONTROLLED ROBOT WITH COMPUTER VISION AND ROBOTIC ARM
 
-video link: https://www.linkedin.com/posts/mahesh-bogati-540066262_my-team-successfully-did-the-inverse-kinematics-activity-7170754825796739073-2DXt?utm_source=share&utm_medium=member_desktop
+Detail at: https://bogatimahesh.com.np/research/voice_controlled_robot_with_computer_vision_and_robotic_arm
 
 The proposed project aims to create a sophisticated Voice-Controlled Robot with
 Computer Vision and Robotic Arm, using the latest technologies in voice recognition,
